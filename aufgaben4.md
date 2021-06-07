@@ -9,7 +9,7 @@ SELECT agg(...) FROM ... [GROUP BY ...]
 
 1. Leg ein neues Album für 2Pac an, sodass dieser nun 4 Alben besitzen sollte.
 2. Gib die Anzahl aller Alben aus.
-3. Gib (in einer Zeile) die kürzeste Länge, die längste Länge und den Durchschnitt aus.
+3. Gib (in einer Zeile) die kürzeste Länge, die längste Länge und den Durchschnitt aller Lieder aus.
 4. Gib alle zu lang geratenen Lieder aus (länger als der Durchschnitt), ohne den Durchschnitt zu kennen. Tipp: Nutze eine Subquery. 
 5. Gib die Anzahl aller Alben pro Künstler aus. Tipp: Nutze GROUP BY mit einer "Wert", den die Alben eines Künstlers gemeinsam haben.
 6. Gib noch mal alle Künstler mit ihren Alben aus.
